@@ -1,5 +1,0 @@
-fonttools
-uharfbuzz
-python-bidi
-cairosvg
-brotli
